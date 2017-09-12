@@ -1,0 +1,18 @@
+{
+  "name": "generator-rrn",
+  "version": "1.0.0",
+  "description": "Generator for react and react-native project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antgar/generator-rrn.git"
+  },
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  },
+  "author": "Antoine Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antgar/generator-rrn/issues"
+  },
+  "homepage": "https://github.com/antgar/generator-rrn#readme"
+}
